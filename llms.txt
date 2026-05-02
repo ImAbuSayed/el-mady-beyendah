@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 92230a370239c2860a88f5cfb623a3e434f25016
+> يا حبيبي قلبي ناداك في الليل
+> في عيونك شفت نور السهر
+> روحي معاك ولا فيها ميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
