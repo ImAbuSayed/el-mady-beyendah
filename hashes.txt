@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Mady Beyendah
+
+This log tracks the cryptographic history and versioning for the song **El Mady Beyendah** (el-mady-beyendah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:40:06.910094 | `v1` | `aee417a7c71c1f6aa80bd63b979cb3fe43f26978d03abd6098933d1b02c76c63` | `fb5efa30d9488e75384ac1199deca6e46c0120aaf7f63cb1173c8ddb71288c78` | `2026-05-09_el-mady-beyendah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
